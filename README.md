@@ -6,7 +6,7 @@ NTELS Data Scientist로서 SKT에서 진행한 SOFCS(과금정책 이상탐지 �
 <br>
 <br>
 
- ![image](https://user-images.githubusercontent.com/37789148/116635980-2888a180-a99b-11eb-824d-ad178d5a44ae.png)
+![image](https://user-images.githubusercontent.com/37789148/116635980-2888a180-a99b-11eb-824d-ad178d5a44ae.png)
 
 <br>
 <br>
