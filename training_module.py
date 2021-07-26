@@ -2,7 +2,7 @@
 @ File name: training_module.py
 @ Version: 1.1.1
 @ Last update: 2019.Oct.23
-@ Author: DH.KIM
+@ Author: sb.choi
 @ Company: Ntels Co., Ltd
 """
 
