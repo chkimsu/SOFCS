@@ -2,7 +2,7 @@
 @ File name: anomaly_detection.py
 @ Version: 1.3.6
 @ Last update: 2020.JAN.15
-@ Author: DH.KIM
+@ Author: sb.choi
 @ Company: Ntels Co., Ltd
 """
 
